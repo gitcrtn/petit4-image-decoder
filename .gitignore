@@ -1,0 +1,5 @@
+*.exe
+*.dll
+
+CommandLineParser.2.7.82
+CoreCompat.System.Drawing.1.0.0-beta006
